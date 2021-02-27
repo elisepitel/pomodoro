@@ -1,5 +1,5 @@
 # pomodoro
-Pomodoro Tracker developed with Python, using tkinter. 
+:tomato: Pomodoro Tracker developed with Python, using tkinter. 
 
 4 sessions of 25 minutes work, divided by 5 minutes break. 20 minutes break every 4 working sessions.
 
